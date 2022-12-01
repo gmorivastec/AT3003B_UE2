@@ -1,0 +1,57 @@
+[
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2.Build.cs",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2Character.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2Character.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2GameMode.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\AT3003B_UE2GameMode.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\Cubito.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\Cubito.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\Plataforma.cpp",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\gmori\\\\Desktop\\\\AT3003B_UE2\\\\Source\\\\AT3003B_UE2\\\\Plataforma.h",
+		"command": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2\\AT3003B_UE2.210.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "AT3003B_UE2Editor Editor Win64 Development (AT3003B_UE2)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_AT3003B_UE2.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\gmori\\Desktop\\AT3003B_UE2\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
